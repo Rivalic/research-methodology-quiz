@@ -1,0 +1,6 @@
+*.py
+raw_data.txt
+parsed_raw_blocks.json
+template.html
+.vercel
+node_modules

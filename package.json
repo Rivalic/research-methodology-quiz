@@ -1,0 +1,12 @@
+{
+  "name": "research-methodology-quiz-120",
+  "version": "1.0.0",
+  "description": "120 Questions Research Methodology & Aptitude Interactive Practice App",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["quiz", "research-methodology", "interactive"],
+  "author": "",
+  "license": "MIT"
+}
